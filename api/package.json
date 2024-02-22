@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "kamal kashyap",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.3",
+    "socket.io": "^4.7.4"
+  }
+}
